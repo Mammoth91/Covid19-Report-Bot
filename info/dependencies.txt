@@ -1,0 +1,7 @@
+npm i pdfjs-dist
+npm install pdf-text
+npm i dom-parser
+npm i jsdom
+npm i child_process
+npm install discord.js
+npm install request
